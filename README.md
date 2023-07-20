@@ -1,6 +1,7 @@
 # Symulacja-ruchu-tramwajow-w-miescie
 ## Amelia Draga
 **Link do prezentacji YOUTUBE https://youtu.be/edcIaut3YtY**
+
 Tramwaje to kultowy środek transportu charakterytyczny dla dużych miast. Cieszą się one szerokim gronem fanów. Niemniej jednak znaleźć można również wielu ich przeciwników, swą niechęć argumentujących wysoką zawodnością komunikacji miejskiej. Czy to słuszne obawy?
 
 Symulacja dotyczy poruszania się tramwajów w dużym mieście np. we Wrocławiu. 
